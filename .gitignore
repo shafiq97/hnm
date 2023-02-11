@@ -8,7 +8,7 @@ Data/example.zip
 Data/df_customer2.csv
 Data/df_customer.csv
 Data/transactions_train.csv.zip
-Data/
+Data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
